@@ -1,1 +1,0 @@
-printstyled("Hei"; color=:magenta)
