@@ -1,1 +1,1 @@
-include("Sandbox/main.jl")
+include("Sandbox/SandboxApp.jl")
